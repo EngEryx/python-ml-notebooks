@@ -92,3 +92,11 @@ ENV/
 .idea
 .idea/
 
+
+# VS Code
+.vscode
+.vscode/
+.empty
+.empty/
+saved_model
+saved_model/
